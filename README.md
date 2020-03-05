@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welkom op mijn site
 
-You can use the [editor on GitHub](https://github.com/InclusieveKets/AmyBeaulisch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hier kun je in de komende 15 weken alles terugvinden rond mijn vooruitgang in de FabAcademy! Elke week zal ik mijn website updaten met nieuwe dingen die ik gemaakt heb! Maar bovenal zul je hier mijn leerproces terugvinden. Zowel alle dingen die goed lukten, maar ook alle dingen die niet goed lukten. Bij alles wat niet lukte zul je ook de reden waarom terug vinden of he ik het opgelost heb.
 
 ### Markdown
 
