@@ -4,8 +4,15 @@ Hier kun je in de komende 15 weken alles terugvinden rond mijn vooruitgang in de
 
 ### Over mij
 
-Lorem ipsum, over mij
+Mijn doel in het leven? Mensen begeleiden tot op het punt komen waar ze onafhankelijke dekers en zelfredzame makers worden.
 
+Sinds 2011 ben ik actief in de (internationale) FabLab wereld. Wat ooit begon als een les op school, onder lichte dwang van voorgenoemde en mijn gastouders, werd uiteindelijk mijn manier om al mijn creatieve uitspattingen en passies in kwijt te kunnen. De FabLab wereld geeft mij niet alleen de mogelijkheid om dingen te maken en te ontwerpen, maar ook om een hele resem andere stills te ontwikkelen en onderhouden. 
+
+Mijn "day to day job" is daardoor een zeer afwisselende job met creativiteit, management, voor groepen staan, communicatie, lesgeven, plannen en nog zoveel meer!
+
+Waar ik in het Labo misschien iets teveel stilzit, met mijn hoofd moet werken en minder high-end bezig ben, maak ik goed op maandagen bij Whaleboat(.be). Daar draai ik mee in een erfgoed  meerster-leerling traject waarbij een meester bootbouwer mij de kneepjes van het vak leert. Dit op zowel traditioneel als moderne bootbouw!
+
+Wil je meer weten over mij? Klik dan [hier](link)
 
 
 ### Wekelijkse opdrachten 
